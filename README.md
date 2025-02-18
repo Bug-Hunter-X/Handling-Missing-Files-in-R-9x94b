@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R when dealing with file I/O: attempting to read a file that does not exist. The `bug.R` file contains the erroneous code, while `bugSolution.R` shows how to gracefully handle this situation using error handling.
